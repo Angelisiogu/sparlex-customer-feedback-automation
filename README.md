@@ -45,5 +45,4 @@ The project also helped me explore how workflow automation can support customer 
 - Verify the Good, Medium, and Bad experience classification.
 - Confirm that the intended Gmail actions work correctly.
 - Add error handling and document successful test results.
-- [LinkedIn](https://www.linkedin.com/in/angel-isiogu-040757249)
 
